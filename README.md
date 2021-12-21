@@ -10,3 +10,7 @@ Functions:
 Instructions:
  - Download the 4 csv files that contain the stats for batters and pitchers
  - Upload these files to the session storage
+
+Example bar plot:
+--
+![image](https://user-images.githubusercontent.com/91490989/146872740-fd0fdb2b-daf8-4565-8a2e-a642107873d9.png)
